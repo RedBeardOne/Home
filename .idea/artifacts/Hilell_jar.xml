@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Hilell:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hilell_jar</output-path>
+    <root id="archive" name="Hilell.jar">
+      <element id="module-output" name="Hilell" />
+    </root>
+  </artifact>
+</component>
