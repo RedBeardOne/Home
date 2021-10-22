@@ -40,10 +40,10 @@ public class TableFactory {
                     group++;
                     tea++;
                     rooms++;
-                    if (time> tame.length){time =0;}
-                    if (group>groups.length){group =0;}
-                    if (tea> tech.length){tea =0;}
-                    if (rooms> aud.length){rooms =0;}
+                    if (time>= tame.length){time =0;}
+                    if (group>=groups.length){group =0;}
+                    if (tea>= tech.length){tea =0;}
+                    if (rooms>= aud.length){rooms =0;}
                 }
             }
         }
